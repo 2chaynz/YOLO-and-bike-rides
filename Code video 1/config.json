@@ -1,0 +1,24 @@
+{
+    "_description": "Configuration pipeline pour video cycliste",
+    
+    "paths": {
+        "video_input": "/Users/hobby/Desktop/Python/ML_projects/HACK sécu copie/Cyclistes/vid1/video1.mp4",
+        "yolo_detection_weights": "yolov8n.pt",
+        "output_dir": "/Users/hobby/Desktop/Python/ML_projects/HACK sécu copie/Cyclistes/vid1",
+        "camera_params": "Users/hobby/Desktop/Python/ML_projects/HACK sécu copie/Cyclistes/vid1/scene_camera.json"
+    },
+    
+    "settings": {
+        "skip_step": 3,
+        "start_frame": 0,
+        "end_frame": null,
+        "detection_confidence": 0.3,
+        "tracking_iou": 0.5
+    },
+    
+    "files_associated": {
+        "notes": "Si tu as des données d'eye-tracker associées à cette vidéo, mets leurs noms ici, sinon tu peux ignorer cette partie.",
+        "gaze": "gaze.csv",
+        "world_timestamps": "world_timestamps.csv"
+    }
+}

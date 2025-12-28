@@ -1,0 +1,40 @@
+{
+    "android_device_id": "25112c60a69559e9",
+    "android_device_model": "rtwo_ge",
+    "android_device_name": "Neon Companion",
+    "app_version": "2.9.8-prod",
+    "calib_version": 1,
+    "data_format_version": "2.5",
+    "duration": 265674000000,
+    "firmware_version": [
+        29,
+        8
+    ],
+    "frame_id": "10",
+    "frame_name": "Just act natural",
+    "gaze_frequency": 200,
+    "gaze_mode": "binocular",
+    "gaze_offset": [
+        49.429688,
+        -75.822266
+    ],
+    "module_serial_number": "412711",
+    "os_version": "14",
+    "pipeline_version": "2.8.0",
+    "recording_id": "10b70589-7ade-4b5e-809c-58d60f8a590d",
+    "start_time": 1763649617590000000,
+    "template_data": {
+        "data": {
+            "4474702f-59ff-487a-9176-784ab970ae58": [
+                ""
+            ]
+        },
+        "id": "6971195e-81dd-4d4b-b768-7e15929baca8",
+        "recording_name": "2025-11-20_15:40:17",
+        "version": "2024-10-25T14:05:59.279717Z"
+    },
+    "wearer_id": "0e63592f-d3de-4162-be3c-0f94c6d24975",
+    "wearer_ied": 63.0,
+    "wearer_name": "Benoit",
+    "workspace_id": "7a9abfee-5381-4407-aa52-92c581abc4eb"
+}
