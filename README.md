@@ -1,4 +1,4 @@
-# Pipeline de Traitement des Données de Regard
+# Pipeline de traitement des données
 
 ## Description
 
