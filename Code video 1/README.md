@@ -1,13 +1,9 @@
-# Pipeline de Traitement des Données de Regard
-
-## Description
-
 Ce projet analyse les données eye-tracking d'un utilisateur en vélo. Cela est la première étape dans notre Projet AZURE.
 
 Le pipeline complet inclut :
 
 1. **Tracking** : Détection et tracking de la chaussée dans les vidéos (YOLO)
-2. **Projection** : Projection des points de regard sur les affiches (Homographie)
+2. **Projection** : Projection des points de regard 
 
 ## Installation
 
@@ -96,8 +92,6 @@ Tous les paramètres sont centralisés dans `config.json` :
      └── requirements.txt         # Dépendances Python
 
 ```
-
-## Étapes du Pipeline A ADAPTER CAR ICI POUR POSTERS
 
 ### Étape 1 : Tracking (YOLO)
 
