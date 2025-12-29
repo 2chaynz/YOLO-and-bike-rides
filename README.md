@@ -95,8 +95,6 @@ Tous les paramètres sont centralisés dans `config.json` :
 
 ```
 
-## Étapes du Pipeline A ADAPTER CAR ICI POUR POSTERS
-
 ### Étape 1 : Tracking (YOLO)
 
 Génère un fichier `detection_results.csv` pour chaque sujet contenant les bounding boxes des affiches détectées à chaque frame.
