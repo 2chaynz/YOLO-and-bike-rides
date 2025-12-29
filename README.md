@@ -1,5 +1,3 @@
-# Description Projet AZURE
-
 Ce projet analyse les données eye-tracking d'un utilisateur en vélo. Cela est la première étape dans notre Projet AZURE.
 
 <img width="1161" height="870" alt="Capture d’écran 2025-12-29 à 00 35 50 copie" src="https://github.com/user-attachments/assets/271f23e9-b974-4ee8-a927-e86b023ccf95" />
