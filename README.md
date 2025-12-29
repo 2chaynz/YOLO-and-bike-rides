@@ -7,7 +7,7 @@ Ce projet analyse les données eye-tracking d'un utilisateur en vélo. Cela est 
 Le pipeline complet inclut :
 
 1. **Tracking** : Détection et tracking de la chaussée dans les vidéos (YOLO)
-2. **Projection** : Projection des points de regard sur les affiches (Homographie)
+2. **Projection** : Projection des points de regard
 
 ## Installation
 
